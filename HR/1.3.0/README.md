@@ -2,6 +2,20 @@
 
 * **JSON schema version**: 1.3.0
 
+## NEW - Test revocation files
+
+### Revoked QR codes
+![VAC](REC_revoked01.png)
+
+![VAC](VAC_revoked01.png)
+
+![VAC](VAC_revoked02.png)
+
+![VAC](VAC_revoked03.png)
+
+![VAC](VAC_revoked04.png)
+
+
 ## Test files
 
 ### Vaccination - one booster after Janssen
